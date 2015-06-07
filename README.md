@@ -19,28 +19,43 @@ Updated :
     - Reboot to recovery,
     - Shutdown
     
- Demo Sample :
-
+ 4. Demo Sample (Pilih Salah Satu) :
+    - GitHub : https://github.com/suyonoion/EasyViewPagerUI_v0.1_Settings/blob/master/Screenshots/EasyViewPagerUI_v0.1_SettingsViewpager.apk?raw=true
+    - DropBox : https://www.dropbox.com/s/sa4h8b7bsph92r8/EasyViewPagerUI_v0.1_SettingsViewpager.apk?dl=0
+    - https://drive.google.com/file/d/0B59mWGCip6hsUzlzN0FQUmdNcFU/view?usp=sharing
+ 
  Screenshoot 1 :
 
- ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewpagerUI/master/app/ss/Screenshot_2015-05-29-15-40-44.png)
+ ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-30-58.png)
 
  Screenshoot 2 :
 
- ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewpagerUI/master/app/ss/Screenshot_2015-05-29-15-40-55.png)
+ ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-31-05.png)
 
  Screenshoot 3 :
 
- ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewpagerUI/master/app/ss/Screenshot_2015-05-29-15-41-14.png)
+ ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-31-28.png)
 
  Screenshoot 4 :
 
- ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewpagerUI/master/app/ss/Screenshot_2015-05-29-15-49-23.png)
+ ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-31-50.png)
 
  Screenshoot 5 :
 
- ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewpagerUI/master/app/ss/Screenshot_2015-05-29-15-49-37.png)
-    
+ ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-31-58.png)
+ 
+ Screenshoot 6 :
+
+  ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-32-10.png)
+  
+ Screenshoot 7 :
+
+  ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-32-19.png)
+  
+ Screenshoot 8 :
+
+   ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_v0.1_Settings/master/Screenshots/Screenshot_2015-06-07-09-33-42.png)
+
 4. Referensi and Big thanks :
     - ChainFire : https://github.com/Chainfire/libsuperuser)
     - StackOverFlow for solutions : http://stackoverflow.com
@@ -63,7 +78,7 @@ Updated :
  Alhamdulillah, Terimakasih Allah.
  Wassalam.
 
-<----------------------------------------------------------------------->
+----------------------------------------------------------------------------------------------------
 
 Old Guide :
 
