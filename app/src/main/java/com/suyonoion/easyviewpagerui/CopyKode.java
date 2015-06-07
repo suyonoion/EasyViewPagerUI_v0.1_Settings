@@ -39,7 +39,7 @@ public class CopyKode extends LinearLayout {
         ion.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View v) {
-                String url = "https://github.com/suyonoion";
+                String url = "https://github.com/suyonoion/EasyViewPagerUI_v0.1_Settings";
                 Intent i = new Intent(Intent.ACTION_VIEW);
                 i.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK | Intent.FLAG_ACTIVITY_SINGLE_TOP | Intent.FLAG_ACTIVITY_REORDER_TO_FRONT);
                 i.setData(Uri.parse(url));
