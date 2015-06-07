@@ -1,6 +1,6 @@
 # EasyViewPagerUI_v0.1_Settings
 
-EasyViewpagerUI v0.1 Settings
+EasyViewpagerUI v0.1 Settings.
 EasyViewPagerUI in Anywhere.
 This Project is CustomView ViewPager.
 
@@ -22,7 +22,7 @@ Updated :
  4. Demo Sample (Pilih Salah Satu) :
     - GitHub : https://github.com/suyonoion/EasyViewPagerUI_v0.1_Settings/blob/master/Screenshots/EasyViewPagerUI_v0.1_SettingsViewpager.apk?raw=true
     - DropBox : https://www.dropbox.com/s/sa4h8b7bsph92r8/EasyViewPagerUI_v0.1_SettingsViewpager.apk?dl=0
-    - https://drive.google.com/file/d/0B59mWGCip6hsUzlzN0FQUmdNcFU/view?usp=sharing
+    - Google Drive : https://drive.google.com/file/d/0B59mWGCip6hsUzlzN0FQUmdNcFU/view?usp=sharing
  
  Screenshoot 1 :
 
@@ -80,7 +80,7 @@ Updated :
 
 ----------------------------------------------------------------------------------------------------
 
-Old Guide :
+Old Guide : Posted on Facebook Group https://facebook.com/groups/maaadreborn/
 
 #SHARE #GUIDE #SS
 #EasyViewPagerUI in Anywhere
