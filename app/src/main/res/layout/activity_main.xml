@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/background_viewpager" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+    <com.suyonoion.easyviewpagerui.ExpandedViewpagerUI android:id="@+id/id_viewpager" android:layout_width="match_parent" android:layout_height="match_parent">
+        <android.support.v4.view.PagerTabStrip android:textColor="#ffffffff" android:id="@+id/id_judul" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_gravity="top" android:background="#8023a606">
+        </android.support.v4.view.PagerTabStrip>
+        <LinearLayout android:id="@+id/id_halaman_1" android:background="@drawable/bingkai_halaman" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <com.suyonoion.easyviewpagerui.TombolSetJudul android:layout_width="fill_parent" android:layout_height="30dip"/>
+            <!-- Hapus ini mulai darisini dan ganti dengan notif -->
+            <include layout="@layout/halaman1"/>
+            <!-- Hapus sampai disini selesai -->
+        </LinearLayout>
+        <LinearLayout android:id="@+id/id_halaman_2" android:background="@drawable/bingkai_halaman" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_gravity="center">
+                <include layout="@layout/halaman2"/>
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout android:id="@+id/id_halaman_3" android:background="@drawable/bingkai_halaman" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <include layout="@layout/halaman3"/>
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout android:id="@+id/id_halaman_4" android:background="@drawable/bingkai_halaman" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <include layout="@layout/halaman4"/>
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout android:id="@+id/id_halaman_5" android:background="@drawable/bingkai_halaman" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <include layout="@layout/halaman5"/>
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout android:id="@+id/id_halaman_6" android:background="@drawable/bingkai_halaman" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <include layout="@layout/halaman6"/>
+            </ScrollView>
+        </LinearLayout>
+        <LinearLayout android:id="@+id/id_halaman_7" android:background="@drawable/bingkai_halaman" android:layout_width="match_parent" android:layout_height="match_parent" android:orientation="vertical">
+            <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <include layout="@layout/halaman7"/>
+            </ScrollView>
+        </LinearLayout>
+    </com.suyonoion.easyviewpagerui.ExpandedViewpagerUI>
+</LinearLayout>

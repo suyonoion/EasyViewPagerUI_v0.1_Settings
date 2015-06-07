@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="#8023a606">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/imageView4"
+            android:src="@drawable/dev_setting"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"/>
+
+        <Button
+            android:text="Pengaturan"
+            android:layout_width="fill_parent"
+            android:layout_height="27dp"
+            android:id="@+id/tombol"
+            android:textColor="#ffffffff"
+            android:background="#00000000"
+            android:gravity="left"
+            android:paddingTop="5dp"
+            android:textStyle="italic"
+            android:paddingLeft="7dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/imageView5"
+            android:src="@drawable/dev_setting"/>
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="27dp"
+            android:text="RestartUI"
+            android:id="@+id/restartui"
+            android:textColor="#ffffffff"
+            android:textStyle="italic"
+            android:background="#00000000"
+            android:gravity="left"
+            android:paddingLeft="7dp"
+            android:paddingTop="5dp"/>
+    </LinearLayout>
+
+</LinearLayout>

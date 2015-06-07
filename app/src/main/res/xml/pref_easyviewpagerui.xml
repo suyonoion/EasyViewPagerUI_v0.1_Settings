@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+                  android:title="EasyViewPagerUI Settings" android:icon="@drawable/logo">
+    <PreferenceCategory android:title="Tampilkan">
+        <ListPreference
+            android:key="getCount"
+            android:title="Jumlah Halaman"
+            android:summary="Mengatur berapa halaman yang harus ditampilkan"
+            android:entries="@array/stringhalaman"
+            android:entryValues="@array/nilaiinteger"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Background">
+        <ListPreference
+            android:key="setBackgroundVP"
+            android:title="Background EasyViewPagerUI"
+            android:summary="Mengganti Background EasyViewPagerUI"
+            android:entries="@array/stringbackgroundlist"
+            android:entryValues="@array/drawablelist"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Ganti Judul">
+        <EditTextPreference android:key="setJudul1" android:title="Halaman 1" android:summary="Mengganti judul halaman 1" android:dialogTitle="Masukkan judul 1"/>
+        <EditTextPreference android:key="setJudul2" android:title="Halaman 2" android:summary="Mengganti judul halaman 2" android:dialogTitle="Masukkan judul 2"/>
+        <EditTextPreference android:key="setJudul3" android:title="Halaman 3" android:summary="Mengganti judul halaman 3" android:dialogTitle="Masukkan judul 3"/>
+        <EditTextPreference android:key="setJudul4" android:title="Halaman 4" android:summary="Mengganti judul halaman 4" android:dialogTitle="Masukkan judul 4"/>
+        <EditTextPreference android:key="setJudul5" android:title="Halaman 5" android:summary="Mengganti judul halaman 5" android:dialogTitle="Masukkan judul 5"/>
+        <EditTextPreference android:key="setJudul6" android:title="Halaman 6" android:summary="Mengganti judul halaman 6" android:dialogTitle="Masukkan judul 6"/>
+        <EditTextPreference android:key="setJudul7" android:title="Halaman 7" android:summary="Mengganti judul halaman 7" android:dialogTitle="Masukkan judul 7"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="CubeOutTransformer">
+        <ListPreference
+            android:key="setrotasi"
+            android:title="Rotasi dan Efek"
+            android:summary="Mengatur efek CubeOutTransformer"
+            android:entries="@array/stringfloat"
+            android:entryValues="@array/nilaifloat"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Tentang">
+        <Preference android:title="Versi EasyViewPagerUI Anywhere" android:summary="EasyViewPagerUI_v0.1_setting"/>
+        <PreferenceScreen android:icon="@drawable/logo" android:title="Dev" android:summary="Suyono (ion)">
+            <Preference android:title="Facebook Profile" android:summary="https://www.facebook.com/suyono.ion">
+                <intent android:action="android.intent.action.VIEW"
+                        android:data="https://www.facebook.com/suyono.ion" />
+            </Preference>
+            <Preference android:title="GitHub" android:summary="https://www.github.com/suyonoion">
+                <intent android:action="android.intent.action.VIEW"
+                        android:data="https://www.github.com/suyonoion" />
+            </Preference>
+            <Preference android:title="Facebook Group" android:summary="https://www.facebook.com/groups/maaadreborn/">
+                <intent android:action="android.intent.action.VIEW"
+                        android:data="https://www.facebook.com/groups/maaadreborn/" />
+            </Preference>
+        </PreferenceScreen>
+    </PreferenceCategory>
+</PreferenceScreen>

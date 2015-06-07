@@ -1,0 +1,53 @@
+<resources>
+     <drawable name="background_viewpager">#00000000</drawable>
+     <string-array name="stringhalaman">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <string-array name="nilaiinteger">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+    </string-array>
+    <!-- background VP -->
+    <string-array name="stringbackgroundlist">
+        <item>Default</item>
+        <item>Background xml 1</item>
+        <item>Background xml 2</item>
+        <item>Background JPG</item>
+        <item>Background 9PNG</item>
+    </string-array>
+    <string-array name="drawablelist">
+        <item>bingkai_halaman</item>
+        <item>background_vp_1</item>
+        <item>background_vp_2</item>
+        <item>jpg_background</item>
+        <item>pngnine_background</item>
+    </string-array>
+    <!-- float rotasi -->
+    <string-array name="stringfloat">
+        <item>0</item>
+        <item>45</item>
+        <item>90</item>
+        <item>140</item>
+        <item>180</item>
+    </string-array>
+    <string-array name="nilaifloat">
+        <item>0</item>
+        <item>45</item>
+        <item>90</item>
+        <item>140</item>
+        <item>180</item>
+    </string-array>
+</resources>
